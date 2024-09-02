@@ -47,7 +47,7 @@
 > </p>
 
 - # PROBLEMÁTICA
-> El paciente enfrenta complicaciones para ingerir alimentos por si solo de una manera efectiva. 
+> El paciente enfrenta complicaciones para ingerir alimentos por si solo de una manera efectiva afectando su independencia. 
 
 - # DIAGRAMA DE ISHIKAWA
 > <p align="center">
