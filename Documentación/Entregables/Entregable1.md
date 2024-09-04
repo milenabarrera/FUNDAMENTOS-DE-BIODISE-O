@@ -47,7 +47,7 @@
 > </p>
 
 - # PROBLEMÁTICA
-> El paciente enfrenta complicaciones para ingerir alimentos por si solo de una manera efectiva afectando su independencia. 
+> El paciente con lesión medular enfrenta complicaciones para ingerir alimentos por si solo de una manera efectiva afectando su independencia. 
 
 - # DIAGRAMA DE ISHIKAWA
 > <p align="center">
@@ -55,16 +55,11 @@
 > </p>
 
 - # ESTADO DEL ARTE
-# Diseño de electrodos flexibles y biocompatibles para recuperación de la función motora posterior a lesión medular, 2022[8]:
-
-> La lesión medular LM es un daño en la médula espinal de etiología variable, en donde se interrumpe la comunicación dentro del sistema nervioso provocando la pérdida temporal o permanente de diferentes funciones neurológicas esenciales como la función motora, sensitiva o autonómica, haciéndola de esta manera una de las afecciones más graves y altamente discapacitantes . Así mismo, dentro de estas investigaciones se ha demostrado que aquellas terapias con dispositivos o ayudas que permiten la producción voluntaria de movimientos activos promueven la neuroplasticidad tanto del cerebro como de la médula espinal permitiendo de esta manera aumentar las probabilidades de recuperar las funciones afectadas por la lesión . Al hacer referencia a electrodos para estimulación medular, es necesario considerar más de 50 años de estudios, que si bien es cierto empezaron como un intento para disminuir el dolor crónico en pacientes, años más tarde se convertiría en la base para recuperar la marcha en personas con LM. Estos electrodos tuvieron sus primeros inicios en base a la Teoría de la compuerta, donde se afirma que los estímulos no dolorosos pueden son capaces de bloquear al estímulo doloroso evitando que la sensación de dolor viaje al sistema nervioso central, esto debido a que la sensación dolorosa se explica por la intensidad del estímulo y no por la calidad de este , por lo que la estimulación no nociva se convierte en el primer camino para suprimir el dolor. En base a estos estudios se desarrollaron diversas investigaciones respecto al diseño de electrodos para LM como , quien diseñó dos microelectrodos flexibles basados en las propiedades que otorga la poliamida. Posteriormente los electrodos fueron caracterizados mediante espectroscopia de impedancia.
-
-> <p align="center">
-> <img src="https://github.com/alvaro-y/FUNDAMENTOS-DE-BIODISE-O/blob/main/Imagenes/fig5.png"/>
-> </p>
+# MyoPro [8]:
+> Es un dispositivo ortésico robótico diseñado para ayudar a las personas con debilidad o parálisis en los brazos y manos a recuperar funciones motoras. El componente principal del MyoPro son los sensores que detectan señales electromiográficas (EMG) en los músculos debilitados del brazo. Estas señales son captadas incluso cuando el paciente intenta mover el brazo con un mínimo esfuerzo, y el dispositivo utiliza esta información para activar movimientos asistidos del brazo. el foco principal es la flexión del codo, ayuda significativamente en actividades como llevar alimentos a la boca, promoviendo la alimentación independiente.
 
 > <p align="center">
-> <img src="https://github.com/alvaro-y/FUNDAMENTOS-DE-BIODISE-O/blob/main/Imagenes/FIG6.png"/>
+> <img src="https://github.com/user-attachments/assets/a1f9c673-a031-4b32-87ce-7af3c9f1234f"/>
 > </p>
 
 # Exoesqueleto mecatrónico para mano, enfocado a facilitar funciones de agarres en persona con lesión medular, 2020 [9]:
@@ -105,8 +100,7 @@ http://www.scielo.org.pe/pdf/afm/v81n1/1025-5583-afm-81-01-00006.pdf
 [7] “Instituto de Rehabilitación registra incremento de pacientes con lesiones medulares,” Www.gob.pe, 2019. 
 https://www.gob.pe/institucion/minsa/noticias/45224-instituto-de-rehabilitacion-registra-incremento-de-pacientes-con-lesiones-medulares
 
-[8] “Diseño de electrodos flexibles y biocompatibles para recuperación de la función motora posterior a lesión medular”, 2022
-https://www.researchgate.net/profile/Edgar-Serna-M/publication/366642260_Ingenieria_y_Desarrollo_en_la_Nueva_Era/links/63ac48a7a03100368a36105e/Ingenieria-y-Desarrollo-en-la-Nueva-Era.pdf#page=426 
+[8] “What is A MyoPro Orthosis – Myomo.” [Online]. Available: https://myomo.com/what-is-a-myopro-orthosis/ 
 
 [9] “Exoesqueleto mecatrónico para mano, enfocado a facilitar funciones de agarres en persona con lesión medular”, 2020
 https://revistas.umariana.edu.co/index.php/BoletinInformativoCEI/article/view/2398/2614 
