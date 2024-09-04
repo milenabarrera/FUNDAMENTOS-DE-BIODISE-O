@@ -28,6 +28,8 @@
 
 > La patente describe un exoesqueleto para el brazo diseñado específicamente para ayudar a pacientes que han sufrido lesiones en la médula espinal. Este dispositivo funciona mediante la captación de señales electromiográficas (EMG) de los músculos restantes del brazo del paciente. Estas señales son procesadas para activar el mecanismo de agarre del exoesqueleto, permitiendo al usuario realizar movimientos de prensión y manipulación que de otro modo serían imposibles debido a la parálisis o debilidad muscular. El diseño está optimizado para ser ligero y ergonómico, permitiendo que el paciente lo use durante largos períodos sin fatiga. El sistema permite ajustes personalizados para adaptarse a las necesidades individuales del paciente, mejorando la precisión y la eficiencia del agarre.
 
+
+
 # Lista de requerimientos:
 - # Funcionales: ¿Qué debe hacer mi diseño?
 > - Brindar soporte para alimentación
