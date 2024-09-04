@@ -107,5 +107,5 @@ https://revistas.umariana.edu.co/index.php/BoletinInformativoCEI/article/view/23
 
 
 [10] Diseño de un sistema inalámbrico de control de silla de ruedas mediante flexión y extensión del cuello enfocado en pacientes tetrapléjicos, 2024
-file:///C:/Users/usuario/Downloads/Dise%C3%B1o%20de%20un%20sistema%20inal%C3%A1mbrico%20de%20control%20de%20silla%20de%20ruedas%20mediante%20flexi%C3%B3n%20y%20extensi%C3%B3n%20del%20cuello%20enfocado%20en%20pacientes%20tetrapl%C3%A9jicos_Modalidad%20prototipo_Articulo.pdf 
+https://repositorio.iberopuebla.mx/bitstream/handle/20.500.11777/5997/Diseño%20de%20un%20sistema%20inalámbrico%20de%20control%20de%20silla%20de%20ruedas%20mediante%20flexión%20y%20extensión%20del%20cuello%20enfocado%20en%20pacientes%20tetrapléjicos_Modalidad%20prototipo_Articulo.pdf?sequence=2&isAllowed=y
 
