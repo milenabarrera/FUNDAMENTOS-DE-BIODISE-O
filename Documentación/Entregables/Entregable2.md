@@ -43,7 +43,7 @@
 > - Ergonómico 
 # Propuesta solución:
 
-> Desarrollar un robot adaptativo y de apoyo, diseñado para ser sencillo de operar y sumamente eficaz, que asista a pacientes con lesiones medulares a nivel C3 durante la ingesta de alimentos. El propósito de este proyecto es incrementar la autonomía del paciente, permitiéndole alimentarse con mucha mayor independencia y seguridad.
+# Desarrollar un robot adaptativo y de apoyo, diseñado para ser sencillo de operar y sumamente eficaz, que asista a pacientes con lesiones medulares a nivel C3 durante la ingesta de alimentos. El propósito de este proyecto es incrementar la autonomía del paciente, permitiéndole alimentarse con mucha mayor independencia y seguridad.
 
 # Bibliografía:
 
