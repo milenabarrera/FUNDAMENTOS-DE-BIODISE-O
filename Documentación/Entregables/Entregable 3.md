@@ -88,4 +88,13 @@ El prototipo desmontable para una silla clínica no eléctrica aborda directamen
 
 La solución se enfoca en compensar estas limitaciones al ofrecer un control simple y preciso mediante un dispositivo que puede ser manejado incluso por usuarios con movilidad reducida en manos y brazos, permitiendo desplazarse hacia adelante, atrás, izquierda y derecha sin esfuerzo excesivo. Además, al convertir una silla manual en eléctrica sin necesidad de reemplazarla, el dispositivo mejora la autonomía del paciente, permitiéndole desplazarse de manera independiente sin depender de ayuda externa.
 
+# Resumen
+
+El problema abordado es la locomoción limitada del paciente y cómo afecta a su independencia, para lo cual la solución propuesta es un kit modular inteligente que permita al paciente adaptar su silla de ruedas convencional a una eléctrica y lograr mejorar la movilización autónoma. Nuestra propuesta busca brindar una opción sencilla, portable y económica a los pacientes, en comparación con las sillas eléctricas ya existentes.
+
+Los resultados esperados son lograr desarrollar un gadget que permita la adaptación de una silla de ruedas convencional mecánica para que presente algunas características de una silla eléctrica, como lo son el manejo de la silla mediante un joystick y tener facilidades para realizar desplazamientos y giros en diferentes direcciones. Se podría probar el prototipo en sillas de ruedas convencionales, primero sin peso para evaluar el funcionamiento y adaptabilidad del gadget a la silla, así como el del joystick; y después con algún usuario en la silla para probar la resistencia y la facilidad de manejo del prototipo.
+
+Los pasos a seguir son bocetar y desarrollar nuestro prototipo, así como plantear el funcionamiento del mismo para que pueda realizar los desplazamientos esperados y poder probarlo en sillas de ruedas convencionales.
+
+
 
