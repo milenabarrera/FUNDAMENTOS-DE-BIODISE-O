@@ -36,7 +36,3 @@
 <img src="https://github.com/user-attachments/assets/91ea484c-0e55-47c7-ba89-9807aaa1f390"/>
 </p>
 
-
-<p align="center">
-<img src="https:file:///C:/Users/Sol/Downloads/188a13c0-1a48-4d21-b090-2f46f027a960.jpg>
-</p>
