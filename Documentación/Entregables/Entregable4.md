@@ -27,7 +27,7 @@
 ## Conclusión de su CS elegido
 
 <p align="center">
-<img src="github.com/user-attachments/assets/35b600db-7f73-48a9-9220-19d6d76435f5"/>
+<img src="https://github.com/user-attachments/assets/35b600db-7f73-48a9-9220-19d6d76435f5"/>
 </p>
 
 ## Bocetos
