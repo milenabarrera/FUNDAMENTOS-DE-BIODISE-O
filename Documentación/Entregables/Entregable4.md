@@ -31,3 +31,7 @@
 </p>
 
 ## Bocetos
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/91ea484c-0e55-47c7-ba89-9807aaa1f390"/>
+</p>
