@@ -1,7 +1,7 @@
 # Entregable 2
 # Contexto comercial:
  <p align="center">
- <img src="https://github.com/user-attachments/assets/553b9012-69e4-4092-b015-d152d3af8a08"/>
+ <img src="[![e841e6e5-ddcb-40a7-b95c-913d5de61cb1.jpg](https://i.postimg.cc/RFrTYBM5/e841e6e5-ddcb-40a7-b95c-913d5de61cb1.jpg)](https://postimg.cc/rdJWd70Q)"/>
  </p>
 
 # PATENTES:
