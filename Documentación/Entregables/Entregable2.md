@@ -1,7 +1,7 @@
 # Entregable 2
 # Contexto comercial:
  <p align="center">
- <img src="[![e841e6e5-ddcb-40a7-b95c-913d5de61cb1.jpg](https://i.postimg.cc/RFrTYBM5/e841e6e5-ddcb-40a7-b95c-913d5de61cb1.jpg)](https://postimg.cc/rdJWd70Q)"/>
+ <img src="https://i.postimg.cc/RFrTYBM5/e841e6e5-ddcb-40a7-b95c-913d5de61cb1.jpg"/>
  </p>
 
 # PATENTES:
