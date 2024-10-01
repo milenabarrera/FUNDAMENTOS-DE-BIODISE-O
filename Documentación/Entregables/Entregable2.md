@@ -1,7 +1,7 @@
 # Entregable 2
 # Contexto comercial:
  <p align="center">
- <img src="[![IMG-20240917-WA0015.jpg](https://i.postimg.cc/BQHgrRw6/IMG-20240917-WA0015.jpg)](https://postimg.cc/Ln4LfQSK)"/>
+ <img src="https://i.postimg.cc/BQHgrRw6/IMG-20240917-WA0015.jpg"/>
  </p>
 
 # PATENTES:
