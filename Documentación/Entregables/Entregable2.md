@@ -49,11 +49,11 @@
 
 # Bibliografía:
 
-[1] “Meet Obi: the Adaptive Eating Device - Eat Independently!.” [Online]. Available: https://meetobi.com/
+[1] “Skarper - eBike. Transformed.” [Online]. Available: https://www.skarper.com/
 
-[2] “What is A MyoPro Orthosis – Myomo.” [Online]. Available: https://myomo.com/what-is-a-myopro-orthosis/
+[2] “Permobil SmartDrive.” [Online]. Available: https://hub.permobil.com/smartdrive
 
-[3] “The Mealtime Partner Dining System enables hands free esting for individuals with disabilities”. [Online]. Available: https://www.mealtimepartners.com/dining/mealtime-partner-dining-device.htm
+[3] “Wheelchair Powerpack Plus - TGA Mobility.” [Online]. Available: https://www.tgamobility.co.uk/product/wheelchair-powerpack-plus/?srsltid=AfmBOortk1JMhiZPLV74xGyqOJaPuFQ6t8oEirZwd1MAxn6jj4ONB3RV
 
 [4] “US20130087154A1 - Mobile arm support - Google Patents.” [Online]. Available: https://patents.google.com/patent/US20130087154A1/en
 
