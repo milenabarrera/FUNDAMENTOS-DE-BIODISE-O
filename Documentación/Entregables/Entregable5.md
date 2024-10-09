@@ -48,6 +48,12 @@
 </p>
 https://sketchfab.com/3d-models/case--protoboard-0589b06084764bceacd0ac617d5e65dd
 
+## Case Arduino
+<p align="center">
+<img src="https://i.postimg.cc/y81yJ26S/soporte-arduino.jpg"/>
+</p>
+https://sketchfab.com/3d-models/case-arduino-mega-4de549691fc64ec39ad29ac3eafedf5a
+
 ## Case batería
 <p align="center">
 <img src="https://i.postimg.cc/FHgtVGz3/enhjf.jpg"/>
@@ -59,3 +65,15 @@ https://sketchfab.com/3d-models/case-bateria-1f2286e57633479b80d60b4c72156525
 <img src="https://i.postimg.cc/Bvm5cbz5/basebase.jpg"/>
 </p>
 https://sketchfab.com/3d-models/base-soporte-6611af6ed4354878807f18d6f14bdeff
+
+## Base superior
+<p align="center">
+<img src="https://i.postimg.cc/1X9CBXcy/ewif.jpg"/>
+</p>
+https://sketchfab.com/3d-models/plataforma-3-3bfcc84e0c9e42238e9869357ce78065
+
+## Ensamble Completo
+<p align="center">
+<img src="https://i.postimg.cc/K8kKqyNT/ensmable.jpg"/>
+</p>
+https://sketchfab.com/3d-models/ensamble-final-e8a911d5ed304c40a53f2454a129b62e
