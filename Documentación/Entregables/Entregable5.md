@@ -40,3 +40,22 @@
 
 ![14](https://github.com/user-attachments/assets/4e22866e-03ad-4246-aa05-8740ee750272)
 
+## SKETCHFAB
+
+## Case protoboard
+<p align="center">
+<img src="https://i.postimg.cc/gJ48y9FQ/uwqhdw.jpg"/>
+</p>
+https://sketchfab.com/3d-models/case--protoboard-0589b06084764bceacd0ac617d5e65dd
+
+## Case batería
+<p align="center">
+<img src="https://i.postimg.cc/FHgtVGz3/enhjf.jpg"/>
+</p>
+https://sketchfab.com/3d-models/case-bateria-1f2286e57633479b80d60b4c72156525
+
+## Base del soporte
+<p align="center">
+<img src="https://i.postimg.cc/Bvm5cbz5/basebase.jpg"/>
+</p>
+https://sketchfab.com/3d-models/base-soporte-6611af6ed4354878807f18d6f14bdeff
