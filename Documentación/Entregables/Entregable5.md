@@ -26,6 +26,6 @@
 <img src="https://github.com/user-attachments/assets/63500b62-9dd5-45d2-938e-e65b5fab76ea"/>
 </p>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/390ff4ca-71db-4895-bea7-713d00e5312e" width="500" height="600 />
+<img src="https://github.com/user-attachments/assets/390ff4ca-71db-4895-bea7-713d00e5312e" width="500" height="600" />
 </p>
 
