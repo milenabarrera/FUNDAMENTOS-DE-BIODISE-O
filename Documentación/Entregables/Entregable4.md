@@ -24,6 +24,12 @@
 <img src="https://github.com/user-attachments/assets/c60a4a78-0f01-46e9-a7f4-1688e5500eb9"/>
 </p>
 
+<p align="center">
+<img src="https://i.postimg.cc/B69R3SpX/IMG-20241009-WA0037.jpg"/>
+</p>
+
+
+
 ## Conclusión de su CS elegido
 
 <p align="center">
