@@ -15,7 +15,7 @@
 ##  Matriz morfológica
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/803bf0d8-60b1-45b0-ae13-a58343d29113"/>
+<img src="https://i.postimg.cc/Sx9rhWvf/Smart-Select-20241009-141542-Chrome.jpg"/>
 </p>
 
 ## Tabla de valoración
