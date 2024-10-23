@@ -42,3 +42,5 @@
 ![40](https://github.com/user-attachments/assets/183a10c4-82cb-41a8-b4b5-82434e9172bd)
 
 https://www.canva.com/design/DAGUQtHKKsE/kM6jxmfxCoEKIsYAaDrWtg/edit
+
+https://cad.onshape.com/documents/ca858fee3b7b2ad4cc1c3b6a/w/d80e6140443c176be9d90e0b/e/b46e8f2734010a8dfe9e09a9
