@@ -45,3 +45,7 @@
 ![22](https://i.postimg.cc/YqWyhNVx/Presentaci-n-del-Hito-N-01-3.jpg)
 
 ![23](https://i.postimg.cc/FFTkWQwB/Presentaci-n-del-Hito-N-01-4.jpg)
+
+![24](https://i.postimg.cc/wvCWmmHS/Presentaci-n-del-Hito-N-01-5.jpg)
+
+![25](https://i.postimg.cc/qRD4PKWh/Presentaci-n-del-Hito-N-01-6.jpg)
