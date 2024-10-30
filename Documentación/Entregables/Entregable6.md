@@ -19,6 +19,10 @@
 
 ## Impresión 3D
 
+![1](https://i.postimg.cc/JnjtvKzf/IMG-20241030-WA0010.jpg)
+
+![2](https://i.postimg.cc/KjF42LKR/IMG-20241030-WA0009.jpg)
+
 ## Modelado base
 
 
