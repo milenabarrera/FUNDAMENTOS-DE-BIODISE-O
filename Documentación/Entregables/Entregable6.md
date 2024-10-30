@@ -23,6 +23,10 @@
 
 ![2](https://i.postimg.cc/KjF42LKR/IMG-20241030-WA0009.jpg)
 
+![3](https://i.postimg.cc/RVghkWvZ/IMG-20241030-WA0007.jpg)
+
+![4](https://i.postimg.cc/rprpRgxD/IMG-20241030-WA0008.jpg)
+
 ## Modelado base
 
 
