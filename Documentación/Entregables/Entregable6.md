@@ -29,9 +29,6 @@
 
 Link: https://cad.onshape.com/documents/ca858fee3b7b2ad4cc1c3b6a/w/d80e6140443c176be9d90e0b/e/5a9bb124509f66af6cbcca03
 
-## Modelado base
-
-
 ## Diagrama de flujo
 
 ![INICIO (2)](https://github.com/user-attachments/assets/8bd76c92-6553-49fe-9243-9d6bfab00c50)
