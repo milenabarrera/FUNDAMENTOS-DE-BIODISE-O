@@ -27,6 +27,8 @@
 
 ![4](https://i.postimg.cc/rprpRgxD/IMG-20241030-WA0008.jpg)
 
+Link: https://cad.onshape.com/documents/ca858fee3b7b2ad4cc1c3b6a/w/d80e6140443c176be9d90e0b/e/5a9bb124509f66af6cbcca03
+
 ## Modelado base
 
 
