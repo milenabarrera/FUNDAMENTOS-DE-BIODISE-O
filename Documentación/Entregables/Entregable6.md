@@ -31,7 +31,10 @@ Link: https://cad.onshape.com/documents/ca858fee3b7b2ad4cc1c3b6a/w/d80e6140443c1
 
 ## Diagrama de flujo
 
-![INICIO (2)](https://github.com/user-attachments/assets/8bd76c92-6553-49fe-9243-9d6bfab00c50)
+> <p align="center">
+> <img src="https://github.com/user-attachments/assets/76d8c430-fcbd-43fd-b4dc-26186ef77a6b" width="600" height="800"/>
+> </p>
+https://www.canva.com/design/DAGVEVXKpno/JSUt6PHdUbssdZ6l9p_XJg/editutm_content=DAGVEVXKpno&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Reporte de Pruebas, retos y limitaciones de los componentes por separado
 
