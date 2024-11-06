@@ -49,50 +49,34 @@ https://www.canva.com/design/DAGVEVXKpno/JSUt6PHdUbssdZ6l9p_XJg/edit
 
 ## Reporte de Pruebas, retos y limitaciones de los componentes por separado
 
-## 1. Evaluación de la Funcionalidad Básica y Usabilidad
-Identificar Componentes Principales: Enumera cada componente clave de tu sistema (por ejemplo, sistema de propulsión de las ruedas, control mediante joystick, batería, etc.).
+## 1. Evaluación de la funcionalidad básica y usabilidad del sistema
+Se realizaron pruebas individuales con el propósito de identificar problemas de funcionamiento y algunas mejoras necesarias previas al avance. La evaluación se centró en el control del joystick y el control de los motores. 
 
-![Captura de pantalla 2024-10-30 020957](https://github.com/user-attachments/assets/d6203dd2-5209-4918-ad62-d069860ce27f)
+### A)
+- Control del Joystick:
+Evaluamos la sensibilidad y respuestas del joystick en los ejes X e Y para asegurarnos de que se envíen señales precisas al ESP-32 encargado de este control. Gracias a esta prueba se demostró que el joystick presenta una buena sensibilidad. Además, como recomendación, podríamos implementar un suavizado de señal con el objetivo de mejorar la precisión de lectura de los movimientos.
 
-### Pruebas Individuales 
+- Componentes: 
+ESP-32, joystick, batería recargable de 3.7V y un puerto de entrada USB tipo C con un módulo de carga TP 4056.
+### B)
+- Control de Motores:
+Por una parte, realizamos algunas pruebas de conexión entre el ESP-32 y el controlador de motores L298N para verificar el correcto funcionamiento de los motores. Por otra parte, probamos el regulador de voltaje para garantizar que los motores reciban una potencia estable. En esta prueba logramos que el L298N controle la dirección y velocidad de los motores individualmente, aunque observamos que los motores pierden potencia al funcionar  a máxima velocidad simultáneamente. Esto último representa una posible limitación en la capacidad del regulador de voltaje o la fuente de alimentación.
 
-Realiza pruebas básicas en cada componente para verificar que cumple su función:
+- Componentes: 
+ESP-32, L298N, motores JGA25 de 12V DC y un regulador de voltaje.
 
-### Control por Joystick: 
-El sistema del joystick responde bien. Cuando el usuario mueve el joystick manda una señal al ESP-32. Este esp-32 procesa la señal y la envía al otro esp-32 encargado de los motores para que estos se muevan con una dirección y velocidad deseada.
+## 2. Identificación de retos y limitaciones:
+Durante el proceso de pruebas pudimos identificar algunos desafíos y limitaciones que se relacionan con la viabilidad de nuestro proyecto. Algunos de esos desafíos fueron los siguientes:
 
-### Fuente de energía:   
-La batería se debe de soldar, por eso no aparece en la imagen. 
+### A)
+- Comunicación ESP-32 a ESP-32:
+Tanto la distancia como algunas condiciones ambientales podrían afectar la comunicación por medio de Bluetooth entre el ESP-32 encargado del joystick y el otro ESP-32 encargado del control de los motores.
 
-### Registro de Resultados:
-Documenta los resultados de cada prueba, anotando cualquier problema de funcionamiento o limitación.
+### B)
+- Capacidad del controlador L298N:
+El controlador L298N es capaz de controlar a los dos motores JGA25 de 12V, aunque su eficiencia energética puede llegar a ser limitada, lo que podría reducir la autonomía del sistema.
 
-### Problemas identificados: 
 
-- Algunos componentes que íbamos a utilizar no se encontraban disponibles en el mercado.
-- Los componentes elegidos eran muy costosos.
-- No se tenían las herramientas para soldar ciertos componentes. 
-- Algunos de los componentes no eran adecuados para nuestro sistema
 
-### Mejoras hechas a partir de los problemas identificados: 
 
-- Buscamos entre diversas tiendas online todos los componentes, y a un precio accesible para todos en el equipo. 
-- Se buscaron las herramientas paras soldar
-- Se utilizó una matriz morfológica ideal para tener los componentes principales bien mapeados. 
 
-## 2. Identificación de Retos y Limitaciones
-
-### Análisis de Factores Técnicos:
-
-La precisión del joystick es adecuada, la resistencia de los materiales es media, pues algunos componentes son altamente frágiles, la estabilidad del sistema es adecuada pues está todo balanceado en cuestión peso. Se han integrado módulos puente H para los motores DC, un regulador de voltaje, una portapila, ya que al reevaluar, necesitamos implementar los componentes mencionados para una mejor comunicación entre el sistema. 
-
-### Dificultades de Integración: 
-
-Al principio hubieron problemas para la comunicación entre joystick y esp-32, pero fue cuestión de reorganizar los cables, de esa forma se garantiza la buena comunicación. 
-
-## 3. Propuestas de Soluciones
-
-### Soluciones Técnicas: 
-
-- Para cada reto identificado, plantea una posible mejora. Por ejemplo:
-- Se implementaron herramientos para soldar la batería, nos prestamos de un compañero del equipo. 
