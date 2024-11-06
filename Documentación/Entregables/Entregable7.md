@@ -3,7 +3,7 @@
 # Hardware electrónico
 ## Diseño esquemático electrónico
 
-![INICIO (1)](https://github.com/user-attachments/assets/2e5a0fab-90ba-4c8b-af9e-c55906a594d9)
+![geraldine](https://github.com/user-attachments/assets/66badef1-6cf0-43b5-b8b9-13a6a4c3faac)
 ### Prototipado electrónico
 
 ![22](https://github.com/user-attachments/assets/34d02eb3-b7c8-40c8-91a6-87b124e5f51a)
@@ -14,10 +14,11 @@
 ![EJECUCION](https://github.com/user-attachments/assets/87681728-7867-4b67-a493-4229cb44f9d7)
 
 ## Código
-
-![1](https://github.com/user-attachments/assets/ab62a6d4-884e-4f43-9f7c-b67045e0d74a)
-![2](https://github.com/user-attachments/assets/d13b24ed-679c-4e9b-bd69-f07b3792febe)
-
+### JOYSTICK
+![Joystick](https://github.com/user-attachments/assets/93ec191b-591d-4dfb-bf84-5658e28eb16a)
+### MOTORES
+![codmotor 1](https://github.com/user-attachments/assets/d7218e84-47db-4538-855e-524c8384a339)
+![codmotor 2](https://github.com/user-attachments/assets/72c1a0ea-e6e8-4296-956b-5d3e6b676188)
 ## Impresión 3D
 
 ## Caja de componentes
@@ -38,6 +39,10 @@ Link: https://cad.onshape.com/documents/ca858fee3b7b2ad4cc1c3b6a/w/d80e6140443c1
 
 > <p align="center">
 > <img src="https://github.com/user-attachments/assets/76d8c430-fcbd-43fd-b4dc-26186ef77a6b" width="600" height="800"/>
+> </p>
+
+> <p align="center">
+> <img src="https://github.com/user-attachments/assets/27ddfc4a-e483-4975-b9ae-a3ed2a053d90" width="700" height="500"/>
 > </p>
 
 https://www.canva.com/design/DAGVEVXKpno/JSUt6PHdUbssdZ6l9p_XJg/edit
