@@ -9,3 +9,7 @@
 ## Case 
 ![1](https://i.postimg.cc/63g7dhqg/Smart-Select-20241030-084501-Chrome.jpg)
 ![2](https://i.postimg.cc/JnM8SDg0/IMG-20241106-WA0000.jpg)
+
+## Compartimiento para motor y baterías
+![1] (https://i.postimg.cc/YSGPGWV8/espaciomotr.jpg)
+![2] (https://i.postimg.cc/cLQT8GBg/espaciocontapa.jpg)
