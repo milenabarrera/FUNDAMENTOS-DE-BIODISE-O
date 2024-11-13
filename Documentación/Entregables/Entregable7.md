@@ -15,10 +15,14 @@
 
 ## Código
 ### JOYSTICK
-![Joystick](https://github.com/user-attachments/assets/93ec191b-591d-4dfb-bf84-5658e28eb16a)
+![JOYSTICK1](https://github.com/user-attachments/assets/6776dbc6-a935-471d-b692-793127f5fc18)
+![JOYSTICK2](https://github.com/user-attachments/assets/2db8e9ed-25f1-4984-8dd9-6422a2e2788d)
 ### MOTORES
-![codmotor 1](https://github.com/user-attachments/assets/d7218e84-47db-4538-855e-524c8384a339)
-![codmotor 2](https://github.com/user-attachments/assets/72c1a0ea-e6e8-4296-956b-5d3e6b676188)
+
+![codmotor 1](https://github.com/user-attachments/assets/52b90702-d3fb-4e29-96db-bb8d0022fac6)
+![codmotor 2](https://github.com/user-attachments/assets/1155a189-f902-4cbe-81f7-29881d5c4f4f)
+![codmotor 3](https://github.com/user-attachments/assets/d7458c9b-3a78-4515-a544-d81243e4f7ea)
+
 ## Impresión 3D
 
 ## Caja de componentes
@@ -38,11 +42,11 @@ Link: https://cad.onshape.com/documents/ca858fee3b7b2ad4cc1c3b6a/w/d80e6140443c1
 ## Diagrama de flujo
 
 > <p align="center">
-> <img src="https://github.com/user-attachments/assets/76d8c430-fcbd-43fd-b4dc-26186ef77a6b" width="600" height="800"/>
+> <img src="https://github.com/user-attachments/assets/677173cb-ab4b-4d38-9ba8-99a53ac392c1"/>
 > </p>
 
 > <p align="center">
-> <img src="https://github.com/user-attachments/assets/27ddfc4a-e483-4975-b9ae-a3ed2a053d90" width="700" height="500"/>
+> <img src="https://github.com/user-attachments/assets/b15e32a0-2227-436e-a50e-9c984aad1250"/>
 > </p>
 
 https://www.canva.com/design/DAGVEVXKpno/JSUt6PHdUbssdZ6l9p_XJg/edit
