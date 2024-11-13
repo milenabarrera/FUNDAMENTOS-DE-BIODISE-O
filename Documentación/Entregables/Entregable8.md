@@ -10,6 +10,12 @@ Integración Hardware - Software - Manufactura Digital
 
 ![5](https://i.postimg.cc/HkwsJNqB/Integrci-n-4.jpg)
 
+![13](https://github.com/user-attachments/assets/ebce9737-41ee-4ba8-a9ec-3e90db263e48)
+
+![14](https://github.com/user-attachments/assets/54586040-8a7d-40b8-93d8-0464ecb2b4c5)
+
+
+
 ![9](https://i.postimg.cc/BQftVh62/Integrci-n.jpg)
 
 ![10](https://i.postimg.cc/zXr5Yvgc/Integrci-n-1.jpg)
