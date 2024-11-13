@@ -80,6 +80,51 @@ Tanto la distancia como algunas condiciones ambientales podrían afectar la comu
 - Capacidad del controlador L298N:
 El controlador L298N es capaz de controlar a los dos motores JGA25 de 12V, aunque su eficiencia energética puede llegar a ser limitada, lo que podría reducir la autonomía del sistema.
 
+## Retroalimentación 
+
+### Respuestas de la docente Isabel Nuñez
+
+### Apariencia y deseño:
+
+- #### ¿El diseño del dispositivo le parece visualmente atractivo?
+Innovador, para el usuario y otros posibles usuarios 
+
+- #### ¿El tamaño, forma y color del dispositivo parecen adecuados?
+Llamativos, novedosos, características neutras y sobrias
+
+### Ergonomía y Comodidad:
+
+- #### ¿Considera que las partes de contacto con el usuario se ven cómodas?
+Sí, en este caso el control del joystick es la única parte en contacto con el usuario de fácil acceso
+
+- #### ¿La ubicación de los controles parece accesible y fácil de manejar?
+Actualmente no, pero con las modificaciones acordadas le parece que sí 
+
+
+### Comprensión y Facilidad de Uso:
+
+- #### ¿Las funciones del dispositivo son claras?
+Sí, se tiene como objetivo adaptar una silla de ruedas para volverla eléctrica a un bajo costo y que tenga la capacidad de moverse hacia adelante, atrás y ambos lados. La principal función del dispositivo es brindarle a usuarios con movilidad reducida la capacidad de desplazarse sin realizar mucho esfuerzo.
+
+- #### ¿Le parece intuitivo el uso del dispositivo según el diseño?
+Sí, tal vez necesita de una pequeña explicación antes de que el paciente la empiece a utilizar, pero nada más que eso.
+
+### Funcionalidad y Potenciales Problemas:
+
+- #### ¿Identifica alguna área en el diseño que podría ser problemática durante el uso real?
+La parte más complicada sería manejar los controles, aunque solo se ve lo de adelante y por ende el equipo(la parte de la caja) puede ser poco entendible.
+
+- #### ¿Hay algo que cambiaría en el diseño antes de hacer una versión física?
+Por el momento no, mantendría los conceptos previos formulados durante los anteriores entregables
+
+
+
+#### Respuestas a preguntas adicionales sobre las necesidades de pacientes con sillas de ruedas:
+- Los pacientes prefieren giros precisos, no suelen tener dificultades para moverse hacia adelante y hacia atrás, pero si tienen problemas con los giros.
+se necesitan giros preciso.
+- No requieran mucho mantenimiento.
+
+
 
 
 
