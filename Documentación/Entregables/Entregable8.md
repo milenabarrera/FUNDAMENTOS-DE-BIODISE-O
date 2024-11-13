@@ -8,6 +8,8 @@ Integración Hardware - Software - Manufactura Digital
 
 ![4](https://i.postimg.cc/RFzFpBcr/Integrci-n-3.jpg)
 
+![5](https://i.postimg.cc/HkwsJNqB/Integrci-n-4.jpg)
+
 ![9](https://i.postimg.cc/BQftVh62/Integrci-n.jpg)
 
 ![10](https://i.postimg.cc/zXr5Yvgc/Integrci-n-1.jpg)
