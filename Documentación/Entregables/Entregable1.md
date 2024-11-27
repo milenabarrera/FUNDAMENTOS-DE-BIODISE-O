@@ -3,7 +3,7 @@
 > - Condición Médica:
 
 > Principio de la lesión medular con fracturas cervicales en las vértebras 5 y 6 (C5 y C6), y en estado de cuadriplejia, el paciente recibió dos intervenciones quirúrgicas; la primera fue a dos semanas de sufrir el accidente tratándose de una fijación transpedicular, y la segunda se trató de una traqueostomía efectuada un mes después del accidente. 
-> El paciente fue dado de alta después de recibir ventilación mecánica durante aproximadamente 3 meses, posterior a eso el paciente regresó al hospital en aproximadamente 11 meses desde la lesión y fue nuevamente hospitalizado.
+> El paciente fue dado de alta después de recibir ventilación mecánica durante aproximadamente 3 meses, posterior a eso el paciente regresó al hospital en aproximadamente 11 meses desde la lesión y fue nuevamente hospitalizado m.
 # Evaluación
  > - Examen clínico
 
